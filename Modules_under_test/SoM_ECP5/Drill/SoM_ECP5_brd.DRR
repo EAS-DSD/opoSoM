@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SoM_ECP5_brd.PcbDoc   21/08/2024  14:00:48
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 (Top) to L10 (Bottom)
+ASCII RoundHoles File : SoM_ECP5_brd-RoundHoles.TXT
+ASCII SlotHoles File : SoM_ECP5_brd-SlotHoles.TXT
+EIA File   : SoM_ECP5_brd.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             942       PTH        1731.61mm (68.17inch)
+T2      0.3mm (12mil)                                             Round             21        PTH        89.37mm (3.52inch)
+T3      0.5mm (20mil)                                             Round             2         PTH        1.50mm (0.06inch)
+T4      0.6mm (24mil)                                             Slot              6         PTH        48.24mm (1.90inch)
+T5      0.83mm (33mil)                                            Round             2         NPTH       48.00mm (1.89inch)
+T6      1.23mm (48mil)                                            Round             2         NPTH       48.00mm (1.89inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              975
+
+Total Processing Time (hh:mm:ss) : 00:00:01
